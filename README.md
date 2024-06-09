@@ -35,7 +35,7 @@ You can test the model on our website. Here’s how:
 ### Data Location
 The training and testing data for this project are stored in a Google Drive folder. Make sure to use the data exactly as provided.
 
-- **Google Drive Folder with Data:** [E-CELL Technical Data](https://drive.google.com/drive/folders/your-folder-id)
+- **Google Drive Folder with Data:** [E-CELL Technical Data](https://drive.google.com/drive/folders/11MEwfQmQwmIDEqyeZWkd6Yer-WXIn0d8?usp=drive_link)
 
 ### Contact Information
 If you have any questions or need help, please contact:
