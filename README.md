@@ -1,35 +1,46 @@
 # E-CELL-Technical-AI-ML
 
-## AI/ML Development Task: Binary Image Classifier (Cats vs Dogs)
+## AI/ML Project: Cat vs. Dog Image Classifier
 
-### Table of Contents
+### Contents
 - [Project Description](#project-description)
-- [Usage](#usage)
-- [Links](#links)
+- [How to Use](#how-to-use)
+- [Important Links](#important-links)
+- [Data Location](#data-location)
+- [Contact Information](#contact-information)
+- [Future Work](#future-work)
 
 ### Project Description
-This project involves developing a binary image classifier to differentiate between cats and dogs using machine learning techniques. The classifier is built using TensorFlow and tested on a dataset of images. The website allows users to test the model using their webcam or by uploading image files.
+This project uses machine learning to create a model that can tell if a picture is of a cat or a dog. The model is built using TensorFlow. You can try out the model on a website where you can use your webcam or upload a picture.
 
-### Usage
-You can test the model using the website, which provides options to use a webcam or upload image files. Follow the instructions below to use the functionalities:
+### How to Use
+You can test the model on our website. Here’s how:
 
-1. **Access the Model:**
-   - Visit the website: [Model Testing Website](https://sites.google.com/view/shaylatyagi/home)
-   - You can test the model using your webcam or by uploading images of cats and dogs.
+1. **Go to the Website:**
+   - [Click here to visit the website](https://sites.google.com/view/shaylatyagi/home)
+   
+2. **Test the Model:**
+   - **Webcam:** You can use your webcam to take a picture and see if it’s a cat or a dog.
+   - **Upload Picture:** You can upload a picture from your computer to see if it’s a cat or a dog.
 
-2. **Website Functionalities:**
-   - **Webcam:** Use your webcam to capture an image and classify it as a cat or dog.
-   - **Upload File:** Upload an image file to classify it as a cat or dog.
-   - The website also displays the confusion matrix and provides links to additional resources.
+3. **Video Guide:**
+   - [Watch this video](https://www.loom.com/share/2d9c90f72dc24415b4712ab6be161b9f?sid=7fef043a-2e98-4f3f-ad26-a33eb5f315f6) to see how it works.
 
-3. **Video Demonstration:**
-   - Watch the video demonstration recorded on Loom: [Deployment Video](https://www.loom.com/share/2d9c90f72dc24415b4712ab6be161b9f?sid=7fef043a-2e98-4f3f-ad26-a33eb5f315f6)
+### Important Links
+- **Website to Test the Model:** [Link](https://sites.google.com/view/shaylatyagi/home)
+- **Link to the Model:** [Teachable Machine](https://teachablemachine.withgoogle.com/models/Apn2Zdxw/)
+- **Confusion Matrix on Google Colab:** [Colab Notebook](https://colab.research.google.com/drive/1ufj1JPmBhZtCyQvGAKQ3Y8Ibh2bIoh1r?usp=sharing)
+- **Video Demonstration:** [Loom Video](https://www.loom.com/share/2d9c90f72dc24415b4712ab6be161b9f?sid=7fef043a-2e98-4f3f-ad26-a33eb5f315f6)
 
-### Links
-- **Model Testing Website:** [Link](https://sites.google.com/view/shaylatyagi/home)
-- **Model Testing Link:** [Teachable Machine](https://teachablemachine.withgoogle.com/models/Apn2Zdxw/)
-- **Confusion Matrix:** [Colab Notebook](https://colab.research.google.com/drive/1ufj1JPmBhZtCyQvGAKQ3Y8Ibh2bIoh1r?usp=sharing)
-- **Deployment Video:** [Loom Video](https://www.loom.com/share/2d9c90f72dc24415b4712ab6be161b9f?sid=7fef043a-2e98-4f3f-ad26-a33eb5f315f6)
+### Data Location
+The training and testing data for this project are stored in a Google Drive folder. Make sure to use the data exactly as provided.
 
-### Data
-The testing and training data are available in the E-CELL Technical folder. Please ensure you upload the folder exactly as provided.
+- **Google Drive Folder with Data:** [E-CELL Technical Data](https://drive.google.com/drive/folders/your-folder-id)
+
+### Contact Information
+If you have any questions or need help, please contact:
+- **Email:** shayla.tyagi2023@vitstudent.ac.in
+
+### Future Work
+- Improve the model accuracy.
+- Add support for more animal classes.
