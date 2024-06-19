@@ -29,7 +29,7 @@ You can test the model on our website. Here’s how:
 ### Important Links
 - **Website to Test the Model:** [Link](https://sites.google.com/view/shaylatyagi/home)
 - **Link to the Model:** [Teachable Machine](https://teachablemachine.withgoogle.com/models/Apn2Zdxw/)
-- **Confusion Matrix on Google Colab:** [Colab Notebook](https://colab.research.google.com/drive/1ufj1JPmBhZtCyQvGAKQ3Y8Ibh2bIoh1r?usp=sharing)
+- **Confusion Matrix on Google Colab:** [Colab Notebook](https://colab.research.google.com/drive/1ufj1JPmBhZtCyQvGAKQ3Y8Ibh2blOhrI?usp=sharing)
 - **Video Demonstration:** [Loom Video](https://www.loom.com/share/2d9c90f72dc24415b4712ab6be161b9f?sid=7fef043a-2e98-4f3f-ad26-a33eb5f315f6)
 
 ### Data Location
